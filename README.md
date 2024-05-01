@@ -15,7 +15,9 @@ Pizza Sales Data: The primary data set used for this data is the 'pizza_sales.cs
 ### Exploratory Data Analysis 
 
 EDA involved exploring the sales data to answer key questions, such as:
+
 -What is the overall sales trend?
+
 -Which products are the top and worst sellers?
 
 ### Data Analysis
