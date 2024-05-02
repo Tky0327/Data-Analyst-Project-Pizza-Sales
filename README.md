@@ -56,7 +56,7 @@ GROUP BY DATENAME(DW, order_date)
 ```sql
 select DATENAME(MONTH, order_date) as Month_Name, COUNT(DISTINCT order_id) as Total_Orders
 from pizza_sales
-GROUP BY DATENAME(MONTH, order_date)Output
+GROUP BY DATENAME(MONTH, order_date)
 ```
 
 
