@@ -11,11 +11,11 @@ Pizza Sales Data: The primary data set used for this data is the 'pizza_sales.cs
 
 ### Tools
 
--Excel - Data Cleaning
+Excel - Data Cleaning
 
--SQL Server - Data Analysis
+SQL Server - Data Analysis
 
--Power BI - Creating Dashboard
+Power BI - Creating Dashboard
 
 ### Exploratory Data Analysis 
 
