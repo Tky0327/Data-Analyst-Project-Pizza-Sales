@@ -7,7 +7,8 @@ This data analysis project aims to gain insights into the business performance o
 
 ### Data Sources
 
-Pizza Sales Data: The primary data set used for this data is the 'pizza_sales.csv' file. [Download here]
+Pizza Sales Data: The primary data set used for this data is the 'pizza_sales.csv' file. 
+
 
 ### Tools
 
@@ -17,6 +18,7 @@ SQL Server - Data Analysis
 
 Power BI - Creating Dashboard
 
+
 ### Exploratory Data Analysis 
 
 EDA involved exploring the sales data to answer key questions, such as:
@@ -25,7 +27,21 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 -Which products are the top and worst sellers?
 
-### Data Analysis
+
+### Data Cleaning
+
+Data cleaning was performed using Excel. Key steps included:
+
+1. Removing duplicates
+
+2. Handling missing values
+
+3. Standardizing date formats
+
+4. Ensuring data consistency and accuracy
+
+
+### SQL Queries
 
 ``` SQL
 SELECT SUM(total_price) AS Total_Revenue FROM pizza_sales;
