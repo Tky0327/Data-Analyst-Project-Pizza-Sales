@@ -1,4 +1,4 @@
-# Data-Analyst-Project-Pizza-Sales
+# Pizza-Sales-Data-Analysis-Project
 
 ### Project Overview
 
